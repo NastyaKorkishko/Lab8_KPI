@@ -1,0 +1,4 @@
+/home/wn8/Видео/lab8-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wn8/Видео/lab8-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wn8/Видео/lab8-master/cmake-build-debug/CMakeFiles/tcpclient.dir
+/home/wn8/Видео/lab8-master/cmake-build-debug/CMakeFiles/server.dir

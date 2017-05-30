@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lubny",
+        "id": 1,
+        "country": "Ukraine",
+        "age": 1029,
+        "region": "Poltavska"
+    },
+    {                               
+        "name": "London",
+        "id": 2,
+        "country": "Great Britain",
+        "age": 1974,
+        "region": "Big London"
+    },
+    {
+        "name": "Paris",
+        "id": 3,
+        "country": "France",
+        "age": 2300,
+        "region": "ILEdeFrance"
+    },
+    {
+        "name": "Kiev",
+        "id": 4,
+        "country": "Ukraine",
+        "age": 1450,
+        "region": "Kievska"
+    },
+    {
+        "name": "Istanbul",
+        "id": 5,
+        "country": "Turkey",
+        "age": 2684,
+        "region": "Istanbul"
+    }
+]

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wn8/Видео/lab8-master/client.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+progbase.h
+-
+progbase/net.h
+-
+progbase/console.h
+-
+
