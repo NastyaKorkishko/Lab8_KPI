@@ -1,3 +1,8 @@
+[![Travis-CI][travis-badge]][travis-builds]
+
+[travis-badge]: https://travis-ci.org/NastyaKorkishko/libprogbase.svg?branch=master
+[travis-builds]: https://travis-ci.org/NastyaKorkishko/libprogbase/builds
+
 # lab8
 
 # Laboratory work 8
