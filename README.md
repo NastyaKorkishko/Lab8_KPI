@@ -8,6 +8,7 @@
 # Laboratory work 8
 ### Task
 TCP server which receives TCP clients' requests and connects with them using HTTP protocol.
+
 #### Avaliable HTTP paths:
 * `/` - sends json object with information about server
 * `/favourites` - sends json list with favourite cities
