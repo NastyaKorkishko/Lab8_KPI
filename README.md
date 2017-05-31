@@ -1,7 +1,7 @@
 [![Travis-CI][travis-badge]][travis-builds]
 
-[travis-badge]: https://travis-ci.org/NastyaKorkishko/libprogbase.svg?branch=master
-[travis-builds]: https://travis-ci.org/NastyaKorkishko/libprogbase/builds
+[travis-badge]: https://travis-ci.org/NastyaKorkishko/Lab8_KPI.svg?branch=master
+[travis-builds]: https://travis-ci.org/NastyaKorkishko/Lab8_KPI/builds
 
 # lab8
 
